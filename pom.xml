@@ -53,7 +53,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>3.0.2</version>
 				<configuration>
-					<appName>webservicegamesweb</appName>
+					<appName>apricot-cobbler-66414</appName>
 					<includeTarget>false</includeTarget>
 					<includes>
 						<include>${basedir}/${full-artifact-name}</include>
