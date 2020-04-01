@@ -1,4 +1,4 @@
-# https-finalfantasyguru87-bitbucket.org-finalfantasyguru87-webservicegame
+
 
 The application uses Spring Rest Controller which returns a list of games. 
 The games are stored in a MongoDB NoSQL  database.  
@@ -16,3 +16,6 @@ https://webservicegamesweb.herokuapp.com/games/5b374acb3a40fb3c7841a588
 
 
 /games/delete/{gameId}--deleted game. I simulate this functionality using Postman
+
+
+REdeploying APP Links are broken
