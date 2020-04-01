@@ -8,14 +8,12 @@ I deployed this application to Heroku's cloud platform.
 
 The current urls are:
 /games -returns a list of all games
-https://webservicegamesweb.herokuapp.com/games
+https://apricot-cobbler-66414.herokuapp.com/games
 
 /games/{gameId}-returns a specific game based on its id
-https://webservicegamesweb.herokuapp.com/games/5b374acb3a40fb3c7841a588
+https://apricot-cobbler-66414.herokuapp.com/games/5e847cf07c213e3443f298c3
 
 
 
 /games/delete/{gameId}--deleted game. I simulate this functionality using Postman
 
-
-REdeploying APP Links are broken
