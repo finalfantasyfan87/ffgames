@@ -1,4 +1,4 @@
-# https-finalfantasyguru87-bitbucket.org-finalfantasyguru87-webservicegame
+
 
 The application uses Spring Rest Controller which returns a list of games. 
 The games are stored in a MongoDB NoSQL  database.  
